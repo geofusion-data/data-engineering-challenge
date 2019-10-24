@@ -97,7 +97,7 @@ A densidade demográfica de um bairro é uma informação muito importante para 
 
 Com o conhecimento sobre os dados que você irá trabalhar e regras mencionadas, agora você precisa construir uma aplicação que calcule e apresente as informações dos concorrentes como código, nome, endereço, preço praticado, fluxo médio de pessoas por dia da semana e por período do dia, bairro e a população e a densidade demográfica do bairro.
 
-#####Exemplo de saída:
+##### Exemplo de saída:
 
 ```
 {
