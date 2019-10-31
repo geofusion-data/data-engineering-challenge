@@ -106,37 +106,37 @@ Com o conhecimento sobre os dados que você irá trabalhar e regras mencionadas,
    "endereço":"Av Campos Salles, 751",
    "preco_praticado":"50,00",
    "fluxo_medio":{
-      "Segunda-feira":{
+      "segunda-feira":{
          "manhã":"3",
          "tarde":"5.5",
          "noite":"10"
          },
-       "Terça-feira":{
+       "terça-feira":{
          "manhã":"1",
          "tarde":"9.67",
          "noite":"4"
          },
-       "Quarta-feira":{
+       "quarta-feira":{
          "manhã":"5",
          "tarde":"12",
          "noite":"22"
          },
-       "Quinta-feira":{
+       "quinta-feira":{
          "manhã":"3",
          "tarde":"9",
          "noite":"24"
          },
-       "Sexta-feira":{
+       "sexta-feira":{
          "manhã":"3",
          "tarde":"6",
          "noite":"28"
          },
-       "Sábado":{
+       "sábado":{
          "manhã":"15.6",
          "tarde":"45.78",
          "noite":"100.5"
          },
-       "Domingo":{
+       "domingo":{
          "manhã":"5",
          "tarde":"24",
          "noite":"40"
