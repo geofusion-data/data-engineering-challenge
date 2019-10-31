@@ -106,9 +106,46 @@ Com o conhecimento sobre os dados que você irá trabalhar e regras mencionadas,
    "endereço":"Av Campos Salles, 751",
    "preco_praticado":"50,00",
    "fluxo_medio":{
-      "manhã":"3",
-      "tarde":"5.5",
-      "noite":"27"
+      "Segunda-feira":{
+         "manhã":"3",
+         "tarde":"5.5",
+         "noite":"10"
+         },
+       "Segunda-feira":{
+         "manhã":"0",
+         "tarde":"8",
+         "noite":"7"
+         },
+       "Terça-feira":{
+         "manhã":"1",
+         "tarde":"9.67",
+         "noite":"4"
+         },
+       "Quarta-feira":{
+         "manhã":"5",
+         "tarde":"12",
+         "noite":"22"
+         },
+       "Quinta-feira":{
+         "manhã":"3",
+         "tarde":"5.5",
+         "noite":"27"
+         },
+       "Sexta-feira":{
+         "manhã":"3",
+         "tarde":"6",
+         "noite":"27"
+         },
+       "Sábado":{
+         "manhã":"15.6",
+         "tarde":"45.78",
+         "noite":"100.5"
+         },
+       "Domingo":{
+         "manhã":"5",
+         "tarde":"24",
+         "noite":"40"
+         }    
    },
    "bairro":"Morumbi",
    "população":32281,
