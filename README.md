@@ -111,11 +111,6 @@ Com o conhecimento sobre os dados que você irá trabalhar e regras mencionadas,
          "tarde":"5.5",
          "noite":"10"
          },
-       "Segunda-feira":{
-         "manhã":"0",
-         "tarde":"8",
-         "noite":"7"
-         },
        "Terça-feira":{
          "manhã":"1",
          "tarde":"9.67",
@@ -128,13 +123,13 @@ Com o conhecimento sobre os dados que você irá trabalhar e regras mencionadas,
          },
        "Quinta-feira":{
          "manhã":"3",
-         "tarde":"5.5",
-         "noite":"27"
+         "tarde":"9",
+         "noite":"24"
          },
        "Sexta-feira":{
          "manhã":"3",
          "tarde":"6",
-         "noite":"27"
+         "noite":"28"
          },
        "Sábado":{
          "manhã":"15.6",
