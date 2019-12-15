@@ -87,7 +87,7 @@ Esses dados são enviados diariamente para a Geofusion. Este arquivo possui uma 
 
 Atualmente um dos nossos desafios é criar serviços de dados escaláveis, otimizados para o armazenamento e para o acesso aos dados.
 
-Nossos Analistas analisaram os dados de fluxo de pessoas e concluíram que a melhor forma de apresentar essa informação seria segmentando o fluxo por dias da semana e períodos do dia (manhã, tarde e noite), ou seja, os clientes precisam saber quantas pessoas em média frequentam seus concorrentes em cada dia da semana e em cada período do dia. Para encontrar fluxo médio de pessoas é preciso considerar os eventos dos mesmos dias da semana e dos mesmos períodos do dia.
+Nossos Analistas examinaram os dados de fluxo de pessoas e concluíram que a melhor forma de apresentar essa informação seria segmentando o fluxo por dias da semana e períodos do dia (manhã, tarde e noite), ou seja, os clientes precisam saber quantas pessoas em média frequentam seus concorrentes em cada dia da semana e em cada período do dia. Para encontrar fluxo médio de pessoas é preciso considerar os eventos dos mesmos dias da semana e dos mesmos períodos do dia.
 
 A densidade demográfica de um bairro é uma informação muito importante para nossos clientes e é uma informação que precisa ser calculada. A densidade demográfica de um bairro é o resultado da  divisão da população do bairro pela área do bairro.
 
